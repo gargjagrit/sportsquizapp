@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+  background-image: url('https://cdn.pixabay.com/photo/2017/08/24/21/41/tartan-track-2678544__340.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-size: 36px;
+}
+
+p{
+  font-size: 24px;
+}
+
+button{
+  background-color: gold;
+  width:200px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px
+}
+
+h3{
+    font-size: 26px;
+}
